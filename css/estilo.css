@@ -1,0 +1,11 @@
+body{
+    background-image: url("https://img.freepik.com/fotos-gratis/fundo-texturizado-abstrato_1258-30623.jpg?size=626&ext=jpg&ga=GA1.1.867424154.1698019200&semt=ais");
+    background-origin: initial;
+    background-repeat: repeat-y;
+    background-size:cover ;
+    padding: 50px;
+}
+.header-title-btn:hover{
+    background-color: #05d7a6;
+    border: none;
+} 
