@@ -1,2 +1,2 @@
 # cards
-Crie cards com títulos e níveis.  
+crie tarefas com cards e controle em níveis.  
